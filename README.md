@@ -44,7 +44,9 @@ Since the data from different years and divisions were in different tables, the 
 
 ## Exploratory Data Analysis
 
-[See Exploratory Data Analysis in full detail here](SchoegglJacquieMSDS692PresentatiSchoegglJacquieMSDS692ExploratoryDataAnalysis.ipynb)
+[See Exploratory Data Analysis in full detail here](notebooks/SchoegglJacquieMSDS692ExploratoryDataAnalysis.ipynb)
+
+[Exploratory Data Analysis for Incompleted Scores](notebooks/SchoegglJacquieMSDS692ExploratoryIncompleted.ipynb)
 
 ## Machine Learning | Linear Regression
 
