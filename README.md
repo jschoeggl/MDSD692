@@ -57,7 +57,7 @@ ANOVA methods were used to determine if there was a difference between final sco
 
 Tukey HSD was used for post hoc testing to determine which divisions had significant differences.
 
-[See Full Details on Linear Regression Here](SchoegglJacquieMSDS692MachineLearning.ipynb)
+[See Full Details on Linear Regression Here](notebooks/SchoegglJacquieMSDS692MachineLearning.ipynb)
 
 ### Predicting Final Place Given a Division and Dressage Score
 Finally, we want to be able to predict the final place of a competitor given their division and initial dressage score.  
